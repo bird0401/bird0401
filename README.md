@@ -68,7 +68,7 @@
   - BigQuery
 
 ### OS
-- MacOS(Catalina, Bigsur)
+- MacOS
 - Windows
 - Linux
   - Ubuntu
