@@ -59,6 +59,8 @@
 - AWS
   - Lambda
   - OpenSearch
+    - ElasticSearch
+    - Kibana
   - Api Gateway
   - EC2
   - S3
