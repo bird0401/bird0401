@@ -1,12 +1,11 @@
 # 自己紹介
-## 経歴
-### 学歴
+## 学歴
 2017/4 ~ 2021/9  
 **早稲田大学基幹理工学部情報理工学科**  
   
 2021/9 ~  
 **東京大学大学院情報理工学系研究科コンピュータ科学専攻**  
-### 職歴
+## 職歴
 2018/3~2019/5  
 **SOMPOコミュニケーションズ**  
 損保ジャパン日本興亜の自動車事故受付窓口のコールセンター。お客様の情報や事故状況の聴取、実際に保険対応をする部署への引き継ぎ。　　
@@ -27,33 +26,25 @@
 **株式会社リクルート**  
 検索エンジン周りの機能追加
 
-### 資格
+## 資格
 - TOEIC 945点
 - Atcoder 緑
 
-## 技術
-### 得意な技術
+## 得意な技術
 - Python : Atcoder, 研究など普段メインで使用
-### 使用したことのある技術  
-**言語**
+## 個人開発・研究・インターンなどで使用したことのある技術  
+### 言語
 - Python
   - Numpy
   - pandas
-  - scipy
   - matplotlib
   - seaborn
-  - scikit-learn
-  - XGBoost
   - TensorFlow
   - Keras
   - Pytorch
   - Mecab
-- C
 - C++
   - opencv
-- Java
-- Fortran
-- Ocaml
 - HTML
 - CSS
 - Javascript
@@ -61,13 +52,11 @@
     - Express 
 - SQL  
 
-**DBMS**
+### DBMS
 - MySQL
-- PostgreSQL  
 
-**cloud**
+### cloud
 - AWS
-  - IAM
   - Lambda
   - OpenSearch
   - Api Gateway
@@ -75,38 +64,30 @@
   - S3
 - GCP
   - BigQuery
-- Azure  
 
-**OS**
+### OS
 - MacOS(Catalina, Bigsur)
 - Windows
 - Linux
   - Ubuntu
   - CentOS  
 
-**その他**  
+### その他
 - wordpress
   - cocoon
-- Matlab
 - Docker
 - Git
 - Jupyter lab
   - Notebook
+## 大学・書籍などで勉強したが開発で使用したことはない技術
+### 言語
+- C
+- Java
+- Fortran
+- Ocaml
 
+### DBMS
+- PostgreSQL  
 
-
-
-<!--
-**mot1122/mot1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### その他
+- Matlab
