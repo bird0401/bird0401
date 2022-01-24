@@ -79,7 +79,7 @@
   - cocoon
 - Docker
 - Git
-- Jupyter lab
+- Google Colaboratory
   - Notebook
 - LaTex
 ## 大学・書籍などで勉強したが開発で使用したことはない技術
