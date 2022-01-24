@@ -81,6 +81,7 @@
 - Git
 - Jupyter lab
   - Notebook
+- LaTex
 ## 大学・書籍などで勉強したが開発で使用したことはない技術
 ### 言語
 - C
