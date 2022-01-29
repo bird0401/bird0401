@@ -35,14 +35,19 @@
 ## 個人開発・研究・インターンなどで使用したことのある技術  
 ### 言語
 - Python
-  - Numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - TensorFlow
-  - Keras
-  - Pytorch
-  - Mecab
+  - 数値計算 
+    - numpy
+    - pandas
+    - scipy
+    - matplotlib
+    - seaborn
+  - 機械学習
+    - tensorFlow
+    - keras
+    - pytorch
+  - NLP
+    - mecab
+    - gensim
 - C++
   - opencv
 - HTML
@@ -80,9 +85,9 @@
 - Docker
 - Git
 - Google Colaboratory
-  - Notebook
 - LaTex
 - Markdown
+- vim
 ## 大学・書籍などで勉強したが開発で使用したことはない技術
 ### 言語
 - C
