@@ -64,7 +64,8 @@
 - Javascript
   - Node.js
     - Express 
-- SQL  
+- SQL
+- SPARQL
 
 ### DBMS
 - MySQL
