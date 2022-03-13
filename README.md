@@ -111,7 +111,8 @@
 - Ocaml
 
 ### DBMS
-- PostgreSQL  
+- PostgreSQL
+- Microsoft SQL Server
 
 ### その他
 - Matlab
