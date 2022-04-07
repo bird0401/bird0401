@@ -61,6 +61,9 @@
   - NLP
     - mecab
     - gensim
+  - CV
+    - openCV
+    - PIL
 - C++
   - opencv
 - HTML
@@ -85,6 +88,7 @@
   - S3
 - GCP
   - BigQuery
+  - Vertex AI Workbench
 
 ### OS
 - MacOS
