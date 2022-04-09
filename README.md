@@ -109,7 +109,7 @@
 
 </details>
 
-## :white_circle: 大学・書籍などで勉強したが開発で使用したことはない技術
+## :white_circle: 大学・書籍などで勉強した技術
 <details><summary>詳細</summary>
 
 ### 言語
