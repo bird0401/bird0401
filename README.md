@@ -62,9 +62,11 @@
   - CV
     - openCV
     - PIL
-- C++
+- C
+  C++
   - opencv
-- HTML
+- Java
+  HTML
 - CSS
 - Javascript
   - Node.js
@@ -111,8 +113,6 @@
 <details><summary>詳細</summary>
 
 ### 言語
-- C
-- Java
 - Fortran
 - Ocaml
 
