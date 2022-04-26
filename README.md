@@ -66,11 +66,13 @@
   - CV
     - openCV
     - PIL
-- C
-  C++
+- C 
+- C++
   - opencv
 - Java
-  HTML
+- Fortran
+- Ocaml
+- HTML
 - CSS
 - Javascript
   - Node.js
@@ -80,6 +82,8 @@
 
 ### DBMS
 - MySQL
+- PostgreSQL
+- Microsoft SQL Server
 
 ### cloud
 - AWS
@@ -110,21 +114,6 @@
 - LaTex
 - Markdown
 - vim
-
-</details>
-
-## :white_circle: 大学・書籍などで勉強した技術
-<details><summary>詳細</summary>
-
-### 言語
-- Fortran
-- Ocaml
-
-### DBMS
-- PostgreSQL
-- Microsoft SQL Server
-
-### その他
 - Matlab
 
 </details>
