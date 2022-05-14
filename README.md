@@ -1,11 +1,13 @@
 # 自己紹介
 ## :school: 学歴
-  
+<details><summary>詳細</summary>
 2017/4 ~ 2021/9  
 **早稲田大学 基幹理工学部 情報理工学科**  
   
 2021/9 ~  
 **東京大学大学院 情報理工学系研究科 コンピュータ科学専攻**  
+
+</details>
 
 ## :office: 職歴
 <details><summary>詳細</summary>
@@ -39,9 +41,11 @@
 </details>
 
 ## :green_book: 資格
-
+<details><summary>詳細</summary>
 - TOEIC 945点
 - Atcoder 緑
+- AWS AWSソリューションアーキテクトアソシエイト 
+</details>
 
 ## :black_circle: 得意な技術
 - Python : 個人開発、インターン、研究、競プロなど普段メインで使用
@@ -57,18 +61,20 @@
     - matplotlib
     - seaborn
   - 機械学習
-    - tensorFlow
-    - keras
-    - pytorch
+    - TensorFlow
+    - Keras
+    - Pytorch
   - NLP
     - mecab
     - gensim
   - CV
-    - openCV
+    - OpenCV
     - PIL
+  - Web
+    - Flask
 - C 
 - C++
-  - opencv
+  - Opencv
 - Java
 - Fortran
 - Ocaml
@@ -87,13 +93,21 @@
 
 ### cloud
 - AWS
+  - IAM
+  - EC2
+  - S3
+  - RDS
+  - Route 53
+  - VPC
+  - Cloud9
   - Lambda
   - OpenSearch
     - ElasticSearch
     - Kibana
   - Api Gateway
-  - EC2
-  - S3
+  - CloudTrail
+  - AWS Cost Explorer
+
 - GCP
   - BigQuery
   - Vertex AI Workbench
