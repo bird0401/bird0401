@@ -48,7 +48,10 @@
 </details>
 
 ## :black_circle: 得意な技術
+<details><summary>詳細</summary>
 - Python : 個人開発、インターン、研究、競プロなど普段メインで使用
+</details>
+
 ## :large_blue_circle: 個人開発・研究・インターンなどで使用したことのある技術  
 <details><summary>詳細</summary>
 
