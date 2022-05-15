@@ -47,7 +47,7 @@
 - AWS AWSソリューションアーキテクトアソシエイト 
 </details>
 
-## :black_circle: 得意な技術
+## :black_circle: 得意技術
 <details><summary>詳細</summary>
 - Python : 個人開発、インターン、研究、競プロなど普段メインで使用
 </details>
