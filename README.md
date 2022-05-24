@@ -2,26 +2,18 @@
 ## :office: 職歴
 <details><summary>詳細</summary>
   
-2018/3~2019/5  
 2021/11~2021/12  
 **株式会社Recruit ： バックエンドエンジニア**  
-検索エンジン周りの機能追加
+ElasticSearchを用いた文字列から文字列のサジェスト機能の追加、生データの実装用の前処理
 
 2022/2~2022/4  
 **株式会社Pixiv ： 機械学習エンジニア**  
 画像認識を用いたタグのレコメンド機能開発
 
-2022/5
+2022/5  
 **株式会社CyberAgent ： 機械学習エンジニア**  
 距離学習を用いた画像類似度検索システムの開発
 
-</details>
-
-## :green_book: 資格
-<details><summary>詳細</summary>
-- TOEIC 945点
-- Atcoder 緑
-- AWS AWSソリューションアーキテクトアソシエイト 
 </details>
 
 ## :black_circle: 得意技術
@@ -110,4 +102,12 @@
 - vim
 - Matlab
 
+</details>
+
+
+## :green_book: 資格
+<details><summary>詳細</summary>
+- TOEIC 945点
+- Atcoder 緑
+- AWS AWSソリューションアーキテクトアソシエイト 
 </details>
