@@ -24,6 +24,7 @@ ElasticSearchを用いた文字列から文字列のサジェスト機能の追�
 ## :large_blue_circle: 個人開発・研究・インターンなどで使用したことのある技術  
 <details><summary>詳細</summary>
 
+  
 ### 言語
 - Python
   - 数値計算 
@@ -104,10 +105,13 @@ ElasticSearchを用いた文字列から文字列のサジェスト機能の追�
 
 </details>
 
-
 ## :green_book: 資格
 <details><summary>詳細</summary>
+
+
 - TOEIC 945点
 - Atcoder 緑
-- AWS AWSソリューションアーキテクトアソシエイト 
+- AWSソリューションアーキテクトアソシエイト 
+  
+  
 </details>
