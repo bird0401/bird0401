@@ -4,15 +4,26 @@
   
 2021/11~2021/12  
 **株式会社Recruit ： バックエンドエンジニア**  
-ElasticSearchを用いた検索サジェスト機能の追加、汚い生データの前処理
+- 検索サジェスト機能の開発
+- BigQuery上のデータの抽出・前処理
+- ElasticSearchのクエリ・インデックステンプレートの作成
+- 検索APIの作成
+- Teck Stack: AWS OpenSearch(ElasticSearch, Kibana), BigQuery, node.js+Express
+
 
 2022/2~2022/4  
-**株式会社Pixiv ： 機械学習エンジニア**  
-投稿イラストを元にしたイラストタグの推論機能開発
+**株式会社Pixiv ： MLエンジニア**  
+- 投稿イラストを元にしたイラストタグの推論機能開発
+- データ抽出・前処理
+- MLモデル作成・学習・評価
+- Teck Stack: GCP(Vertex AI Workbench, BigQuery)、Python(Tensorflow+Keras)
 
 2022/5  
-**株式会社CyberAgent ： 機械学習エンジニア**  
-ユーザログを元にしたユーザの好み画像推論システム開発
+**株式会社CyberAgent ： MLエンジニア**  
+- ユーザログを元にしたユーザの好み画像推論システム開発
+- データ抽出・前処理
+- MLモデル作成・評価
+- Teck Stack: GCP(Vertex AI Workbench, BigQuery)、Python(Pytorch)
 
 </details>
 
