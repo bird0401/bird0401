@@ -2,19 +2,20 @@
 ## :office: Internship
 <details><summary>詳細</summary>
 
-**株式会社CyberAgent ： ML enginner (2022 May)**  
+  
+### CyberAgent (ML enginner, 2022 May)
 - ユーザログを元にしたユーザの好み画像推論システム開発
 - データ抽出・前処理
 - MLモデル作成・評価
 - Teck Stack: GCP(Vertex AI Workbench, BigQuery)、Python(Pytorch)
 
-**株式会社Pixiv ： ML enginner (2022 Feb-Apr)**  
+### Pixiv (ML enginner, 2022 Feb-Apr)
 - 投稿イラストを元にしたイラストタグの推論機能開発
 - データ抽出・前処理
 - MLモデル作成・学習・評価
 - Teck Stack: GCP(Vertex AI Workbench, BigQuery)、Python(Tensorflow+Keras)
   
-**株式会社Recruit ： Backend enginner (2021 Nov-Dec)**   
+### Recruit (Backend enginner, 2021 Nov-Dec)
 - 検索サジェスト機能の開発
 - BigQuery上のデータの抽出・前処理
 - ElasticSearchのクエリ・インデックステンプレートの作成
@@ -25,13 +26,14 @@
 
 ## :black_circle: Proficient
 <details><summary>詳細</summary>
+
 - Python : Mainly use in research, internships, individual developments, and competitive programing
+
 </details>
 
 ## :large_blue_circle: Comfortable
 <details><summary>詳細</summary>
 
-  
 ### Languages
 - Python
   - 数値計算 
