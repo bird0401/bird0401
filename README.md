@@ -1,42 +1,38 @@
-# 自己紹介
-## :office: 職歴
+# Self-introduction
+## :office: Internship
 <details><summary>詳細</summary>
+
+**株式会社CyberAgent ： ML enginner (2022 May)**  
+- ユーザログを元にしたユーザの好み画像推論システム開発
+- データ抽出・前処理
+- MLモデル作成・評価
+- Teck Stack: GCP(Vertex AI Workbench, BigQuery)、Python(Pytorch)
+
+**株式会社Pixiv ： ML enginner (2022 Feb-Apr)**  
+- 投稿イラストを元にしたイラストタグの推論機能開発
+- データ抽出・前処理
+- MLモデル作成・学習・評価
+- Teck Stack: GCP(Vertex AI Workbench, BigQuery)、Python(Tensorflow+Keras)
   
-2021/11~2021/12  
-**株式会社Recruit ： バックエンドエンジニア**  
+**株式会社Recruit ： Backend enginner (2021 Nov-Dec)**   
 - 検索サジェスト機能の開発
 - BigQuery上のデータの抽出・前処理
 - ElasticSearchのクエリ・インデックステンプレートの作成
 - 検索APIの作成
 - Teck Stack: AWS OpenSearch(ElasticSearch, Kibana), BigQuery, node.js+Express
 
-
-2022/2~2022/4  
-**株式会社Pixiv ： MLエンジニア**  
-- 投稿イラストを元にしたイラストタグの推論機能開発
-- データ抽出・前処理
-- MLモデル作成・学習・評価
-- Teck Stack: GCP(Vertex AI Workbench, BigQuery)、Python(Tensorflow+Keras)
-
-2022/5  
-**株式会社CyberAgent ： MLエンジニア**  
-- ユーザログを元にしたユーザの好み画像推論システム開発
-- データ抽出・前処理
-- MLモデル作成・評価
-- Teck Stack: GCP(Vertex AI Workbench, BigQuery)、Python(Pytorch)
-
 </details>
 
-## :black_circle: 得意技術
+## :black_circle: Proficient
 <details><summary>詳細</summary>
-- Python : 個人開発、インターン、研究、競プロなど普段メインで使用
+- Python : Mainly use in research, internships, individual developments, and competitive programing
 </details>
 
-## :large_blue_circle: 個人開発・研究・インターンなどで使用したことのある技術  
+## :large_blue_circle: Comfortable
 <details><summary>詳細</summary>
 
   
-### 言語
+### Languages
 - Python
   - 数値計算 
     - numpy
@@ -75,7 +71,7 @@
 - PostgreSQL
 - Microsoft SQL Server
 
-### cloud
+### Cloud
 - AWS
   - IAM
   - EC2
@@ -93,6 +89,7 @@
   - AWS Cost Explorer
 
 - GCP
+  - GCE
   - BigQuery
   - Vertex AI Workbench
 
@@ -100,29 +97,30 @@
 - MacOS
 - Windows
 - Linux
+  - CentOS 
   - Ubuntu
-  - CentOS  
+  - Debian
 
-### その他
-- wordpress
+### Tools
+- Wordpress
   - cocoon
 - Docker
 - Git
 - Google Colaboratory
 - LaTex
 - Markdown
-- vim
+- Vim
 - Matlab
 
 </details>
 
-## :green_book: 資格
+## :green_book: Qualifications
 <details><summary>詳細</summary>
 
 
-- TOEIC 945点
+- TOEIC 945
 - Atcoder 緑
-- AWSソリューションアーキテクトアソシエイト 
+- AWS Solution Architect Assosiate
   
   
 </details>
