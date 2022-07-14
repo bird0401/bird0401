@@ -36,24 +36,11 @@
 
 ### Languages
 - Python
-  - 数値計算 
-    - numpy
-    - pandas
-    - scipy
-    - matplotlib
-    - seaborn
-  - 機械学習
-    - TensorFlow
-    - Keras
-    - Pytorch
-  - NLP
-    - mecab
-    - gensim
-  - CV
-    - OpenCV
-    - PIL
-  - Web
-    - Flask
+  - 数値計算(numpy, pandas, scipy, matplotlib, seaborn)
+  - 機械学習(TensorFlow, Keras, Pytorch)
+  - NLP(mecab, gensim)
+  - CV(OpenCV, PIL)
+  - Web(Flask)
 - C 
 - C++
   - Opencv
@@ -74,38 +61,16 @@
 - Microsoft SQL Server
 
 ### Cloud
-- AWS
-  - IAM
-  - EC2
-  - S3
-  - RDS
-  - Route 53
-  - VPC
-  - Cloud9
-  - Lambda
-  - OpenSearch
-    - ElasticSearch
-    - Kibana
-  - Api Gateway
-  - CloudTrail
-  - AWS Cost Explorer
-
-- GCP
-  - GCE
-  - BigQuery
-  - Vertex AI Workbench
+- AWS(IAM, EC2, S3, RDS, Route 53, VPC, Cloud9, Lambda, OpenSearch, ElasticSearch, Kibana, API Gateway, CloudTrail, AWS Cost Explorer)
+- GCP(GCE, BigQuery, Vertex AI Workbench)
 
 ### OS
 - MacOS
 - Windows
-- Linux
-  - CentOS 
-  - Ubuntu
-  - Debian
+- Linux(CentOS, Ubuntu, Debian)
 
 ### Tools
-- Wordpress
-  - cocoon
+- Wordpress(cocoon)
 - Docker
 - Git
 - Google Colaboratory
