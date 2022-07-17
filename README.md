@@ -36,11 +36,12 @@
 
 ### Languages
 - Python
-  - 数値計算(numpy, pandas, scipy, matplotlib, seaborn)
-  - 機械学習(TensorFlow, Keras, Pytorch)
-  - NLP(mecab, gensim)
+  - 数値計算(Numpy, Pandas, Scipy, Matplotlib, Seaborn)
+  - 機械学習(TensorFlow, Keras, Pytorch, Scikit-Learn)
+  - NLP(Mecab, Gensim)
   - CV(OpenCV, PIL)
-  - Web(Flask)
+  - Web(Flask, FastAPI)
+  - Others(Tox, build, pydantic)
 - C 
 - C++
   - Opencv
@@ -79,6 +80,7 @@
 - Markdown
 - Vim
 - Matlab
+- Heroku
 
 </details>
 
