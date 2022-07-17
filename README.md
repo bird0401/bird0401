@@ -72,6 +72,7 @@
 ### Tools
 - Wordpress(cocoon)
 - Docker
+- Singularity
 - Git
 - Google Colaboratory
 - LaTex
